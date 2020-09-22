@@ -8,7 +8,9 @@ body {
 div {
   width: 700px;
   margin: auto;
-  font-family: ;
+  font-family: "Helvetica Neue";
+  background: white;
+  padding: 30px;
   /* Your code here! */
 }
 
@@ -16,9 +18,11 @@ div {
 #main-header {
   /* Your code here! */
   color:red;
+  font-size: 22px;
 }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
 .perspective-questions {
+  font-size: italic;
   /* Your code here! */
 }
